@@ -1,0 +1,484 @@
+@media (max-width: 1399px) {
+  /* logo section  */
+  .hr-design {
+    width: 70%;
+  }
+
+  /* menu section  */
+  .menu-item {
+    padding: 5px 31px;
+  }
+
+  /* service hero section  */
+  .service-main-text {
+    margin-right: 180px;
+  }
+
+  /* main-part body  right-side*/
+  .body-header {
+    width: 100%;
+  }
+
+  /* language section  */
+  .language-list div {
+    width: auto;
+  }
+
+  /* icon-part  */
+  .icon-part {
+    width: 100%;
+  }
+
+  /* faq section  */
+  .question-header {
+    width: 400px;
+  }
+
+  .question-list {
+    width: 400px;
+  }
+
+  /*______________________________ service page_______________________________________________________  */
+  .service-main-body {
+    padding: 0 5px;
+  }
+
+  .service-box-left {
+    width: 420px;
+  }
+
+  /* _____________________________language section _____________________________________________________ */
+  .language-staff-text {
+    padding: 15px;
+    width: 300px;
+  }
+
+  /* contact page  */
+  .control-iframe iframe {
+    height: 2460px;
+  }
+}
+
+@media (max-width: 1199px) {
+  /* logo section  */
+  .hr-design {
+    width: 80%;
+  }
+
+  /* menu section  */
+  .menu-item {
+    padding: 5px 18px;
+  }
+
+  /* service hero section  */
+  .service-main-text {
+    margin-right: 120px;
+  }
+
+  /* main-body  */
+  .main-body {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
+  /* left-side main body  */
+  .left-side {
+    width: 100%;
+    margin-right: 0;
+    background-color: #fff;
+  }
+
+  .left-text {
+    width: 100%;
+  }
+  .left-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .left-item div {
+    width: 200px;
+  }
+
+  .left-bottom {
+    margin-top: 25px;
+  }
+
+  /* left contract  */
+  .left-button button {
+    padding: 6px 11px;
+  }
+
+  /*______________________________ service page_______________________________________________________  */
+  .service-main-body {
+    padding: 0 15px;
+  }
+
+  .service-box-left {
+    width: 445px;
+  }
+}
+
+@media (max-width: 991px) {
+  /* menu-responsive */
+  .menu-wrap {
+    position: relative;
+  }
+
+  .nav-item {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 300px;
+    padding: 5px;
+    border-radius: 5px;
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    right: 0;
+    z-index: 10;
+    top: 120%;
+    -webkit-box-shadow: 0px 2px 5px rgb(0 0 0 / 16%);
+    box-shadow: 0px 2px 5px rgb(0 0 0 / 16%);
+    background-color: #fff;
+    -webkit-transition: 0.2s;
+    -o-transition: 0.2s;
+    transition: 0.2s;
+  }
+
+  .menu-item {
+    border-right: none;
+    border-bottom: 2px solid #e9e9e9;
+  }
+
+  .menu-item a {
+    text-align: left;
+  }
+
+  .responsive-menu.nav-item {
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  /* toggle off X design  */
+  .toggle-button.start span:first-child {
+    -webkit-transform: rotate(45deg) translate(2px, 50%);
+    -ms-transform: rotate(45deg) translate(2px, 50%);
+    transform: rotate(45deg) translate(2px, 50%);
+  }
+
+  .toggle-button.start span:last-child {
+    -webkit-transform: rotate(-45deg) translate(4px, -100%);
+    -ms-transform: rotate(-45deg) translate(4px, -100%);
+    transform: rotate(-45deg) translate(4px, -100%);
+  }
+
+  .toggle-button.start span:nth-child(2) {
+    display: none;
+  }
+
+  /* logo section  */
+  .logo-text p {
+    font-size: 12px;
+  }
+
+  .hr-design {
+    width: 100%;
+  }
+
+  /* service hero section  */
+  .service-hero-img {
+    height: 130px;
+    /* background-repeat: repeat; */
+    background-size: cover;
+  }
+
+  .service-hero-contact h2 img {
+    margin-top: -5px;
+  }
+
+  .service-main-text {
+    margin-right: 80px;
+  }
+
+  /*______________________________ service page_______________________________________________________  */
+
+  .service-box-left {
+    width: 100%;
+  }
+
+  .service-margin {
+    margin-right: 0;
+  }
+
+  /* body-menu  */
+  .body-menu {
+    padding: 0 50px;
+  }
+
+  /* _____________________________language section _____________________________________________________ */
+  .language-staff-text {
+    padding: 15px;
+    width: 100%;
+  }
+
+  /* contact page  */
+  .control-iframe iframe {
+    height: 1940px;
+  }
+}
+
+@media (max-width: 767px) {
+  body {
+    font-size: 11px;
+  }
+
+  /* hero section  */
+  .hero-img h1 {
+    font-size: 16px;
+  }
+
+  /* service hero section  */
+  .service-hero-img {
+    height: 150px;
+    /* background-repeat: repeat; */
+    background-size: cover;
+  }
+
+  .service-hero-contact h2 img {
+    margin-top: -3px;
+  }
+
+  .section-font-design {
+    padding-bottom: 10px;
+    overflow-x: auto;
+  }
+
+  .section-font-design table {
+    width: 578px;
+  }
+
+  .service-hero-text {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+
+  .service-main-text {
+    margin-right: 0;
+  }
+
+  .html-font-size h1 {
+    font-size: 14px;
+  }
+
+  .language-table2-main,
+  .language-table3-main,
+  .language-table-main {
+    padding-bottom: 10px;
+    overflow-x: auto;
+  }
+
+  .language-table2-main table,
+  .language-table-main table,
+  .language-table3-main table {
+    width: 578px;
+  }
+
+  /* market section  */
+  .market-bg-text {
+    margin-left: 0;
+  }
+
+  .market-bg-text2 {
+    margin-left: 12px;
+  }
+
+  .market-bg {
+    padding: 21px 15px;
+    background-position: right;
+  }
+
+  /* contact page  */
+  .control-iframe iframe {
+    height: 2260px;
+  }
+}
+
+@media (max-width: 500px) {
+  /* hero section  */
+  .hero-img {
+    height: 305px;
+  }
+
+  /* icon section  */
+
+  .icon-part {
+    display: block;
+  }
+
+  .service-html-section {
+    padding: 0 10px;
+  }
+
+  .html-section-text {
+    padding: 10px 0;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 14px;
+  }
+
+  /* contact page  */
+  .control-iframe iframe {
+    height: 2460px;
+  }
+}
+
+@media (max-width: 395px) {
+  /* top page  */
+  .top-right {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .logo-text p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .hero-button button {
+    padding: 0 25px;
+  }
+
+  .hero-contact h2 {
+    font-size: 13px;
+  }
+
+  .hero-time {
+    display: inline-block;
+  }
+
+  .side-menu div select {
+    width: 154px;
+  }
+
+  .top-right div:first-child {
+    margin-right: 12px;
+  }
+
+  .logo-side {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .hero-img {
+    height: 355px;
+  }
+
+  .hero-span {
+    padding: 0 9px;
+  }
+
+  .question-header,
+  .question-list {
+    width: 298px;
+  }
+
+  .faq-button button {
+    padding: 4px 6px;
+    font-size: 12px;
+  }
+
+  /* service section  */
+  .service-hero-img {
+    height: 210px;
+  }
+
+  .service-main-text {
+    font-size: 14px;
+  }
+
+  .service-hero-contact h2 {
+    font-size: 13px;
+  }
+
+  .service-language-list {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .body-menu {
+    padding: 0px 0px;
+  }
+
+  /* market section  */
+  .market-border {
+    padding: 20px 6px;
+  }
+
+  .market-header {
+    display: block;
+    font-size: 16px;
+    margin-left: 5px;
+  }
+
+  /* company-page  */
+  .company-profile {
+    display: block;
+  }
+
+  .company-profile-head {
+    display: block;
+    width: 50%;
+    margin-top: 10px;
+  }
+  .company-profile-detail,
+  .company-phone {
+    width: 100%;
+  }
+
+  /* contact page  */
+  .control-iframe iframe {
+    height: 2750px;
+  }
+
+  /* customer page  */
+  .company-customer div {
+    width: 100%;
+  }
+}
+
+@media (max-width: 350px) {
+  /* contact page  */
+  .control-iframe iframe {
+    height: 2915px;
+  }
+}
+
+@media (max-width: 300px) {
+  .hero-img {
+    height: 400px;
+  }
+
+  .service-hero-img {
+    height: 310px;
+  }
+}

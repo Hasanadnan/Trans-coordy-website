@@ -1,0 +1,191 @@
+<!-- top section  -->
+<div class="top-line"></div>
+
+<div class="container">
+
+  <div class="top-side">
+    <div class="top-left">
+    </div>
+    <div class="top-right">
+      <div><a href="/03company/company.shtml">会社概要</a></div>
+      <div><a href="/03company/sitemap.shtml">サイトマップ</a></div>
+    </div>
+  </div>
+  <!-- logo section  -->
+  <div class="logo-side">
+    <div class="main-logo"><a href="/"><img src="/assest/img/top/topnew.png" alt=""></a></div>
+    <div class="logo-text">
+      <p>多言語翻訳専門会社「コーディ翻訳サービス」は世界179ヶ国語をサポート致します。</p>
+    </div>
+  </div>
+  <hr class="hr-design">
+
+  <div class="side-menu">
+    <div class="left-menu">
+      <div class="left-menu-border">登録国数　193 ヶ国</div>
+      <div class="left-menu-border">登録人数　120,245 人</div>
+      <div> 登録言語数　179 言語</div>
+    </div>
+    <div>
+      <label for="">Language</label>
+      <select onchange="if(this.value) location.href=(this.value);">
+        <option value="">言語を選んでください。</option>
+        <option value="/01language/language_01.shtml">英語</option>
+        <option value="/01language/language_02.shtml">中国語</option>
+        <option value="/01language/language_03.shtml">韓国語</option>
+        <option value="/01language/language_04.shtml">インドネシア語</option>
+        <option value="/01language/language_05.shtml">ベトナム語</option>
+        <option value="/01language/language_06.shtml">タガログ語</option>
+        <option value="/01language/language_07.shtml">タイ語</option>
+        <option value="/01language/language_08.shtml">アラビア語</option>
+        <option value="/01language/language_09.shtml">ポルトガル語</option>
+        <option value="/01language/language_10.shtml">スペイン語</option>
+        <option value="/01language/language_11.shtml">ドイツ語</option>
+        <option value="/01language/language_12.shtml">エストニア語</option>
+        <option value="/01language/language_13.shtml">カタルーニャ語</option>
+        <option value="/01language/language_14.shtml">ギリシャ語</option>
+        <option value="/01language/language_15.shtml">セルビア語</option>
+        <option value="/01language/language_16.shtml">デンマーク語</option>
+        <option value="/01language/language_17.shtml">マジャル語</option>
+        <option value="/01language/language_18.shtml">スウェーデン語</option>
+        <option value="/01language/language_19.shtml">ブルガリア語</option>
+        <option value="/01language/language_20.shtml">ラテン語</option>
+        <option value="/01language/language_21.shtml">マルタ語</option>
+        <option value="/01language/language_22.shtml">ラトビア語</option>
+        <option value="/01language/language_23.shtml">パシュトゥ語</option>
+        <option value="/01language/language_24.shtml">イタリア語</option>
+        <option value="/01language/language_25.shtml">フランス語</option>
+        <option value="/01language/language_26.shtml">オランダ語</option>
+        <option value="/01language/language_27.shtml">ウクライナ語</option>
+        <option value="/01language/language_28.shtml">カザフ語</option>
+        <option value="/01language/language_29.shtml">クロアチア語</option>
+        <option value="/01language/language_30.shtml">スロベニア語</option>
+        <option value="/01language/language_31.shtml">チェコ語</option>
+        <option value="/01language/language_32.shtml">ノルウェー語</option>
+        <option value="/01language/language_33.shtml">ハンガリー語</option>
+        <option value="/01language/language_34.shtml">フィンランド語</option>
+        <option value="/01language/language_35.shtml">ポーランド語</option>
+        <option value="/01language/language_36.shtml">ロシア語</option>
+        <option value="/01language/language_37.shtml">リトアニア語</option>
+        <option value="/01language/language_38.shtml">アルバニア語</option>
+        <option value="/01language/language_39.shtml">ルーマニア語</option>
+        <option value="/01language/language_40.shtml">ミャンマー語</option>
+        <option value="/01language/language_41.shtml">ヒンディー語</option>
+        <option value="/01language/language_42.shtml">モンゴル語</option>
+        <option value="/01language/language_43.shtml">ウルドゥー語</option>
+        <option value="/01language/language_44.shtml">ベンガル語</option>
+        <option value="/01language/language_45.shtml">ラオ語</option>
+        <option value="/01language/language_46.shtml">簡体字</option>
+        <option value="/01language/language_47.shtml">広東語</option>
+        <option value="/01language/language_48.shtml">福建語</option>
+        <option value="/01language/language_49.shtml">ウズベク語</option>
+        <option value="/01language/language_50.shtml">パキスタン語</option>
+        <option value="/01language/language_51.shtml">パンジャビ語</option>
+        <option value="/01language/language_52.shtml">アゼルバイジャン</option>
+        <option value="/01language/language_53.shtml">クメール語</option>
+        <option value="/01language/language_54.shtml">タミル語</option>
+        <option value="/01language/language_55.shtml">ネパール語</option>
+        <option value="/01language/language_56.shtml">マレー語</option>
+        <option value="/01language/language_57.shtml">カンボジア語</option>
+        <option value="/01language/language_58.shtml">シンハラ語</option>
+        <option value="/01language/language_59.shtml">マラティー語</option>
+        <option value="/01language/language_60.shtml">ジャワ語</option>
+        <option value="/01language/language_61.shtml">繁体字</option>
+        <option value="/01language/language_62.shtml">台湾語</option>
+        <option value="/01language/language_63.shtml">朝鮮語</option>
+        <option value="/01language/language_64.shtml">キルギス語</option>
+        <option value="/01language/language_65.shtml">ウィグル語</option>
+        <option value="/01language/language_66.shtml">ビサヤ語</option>
+        <option value="/01language/language_67.shtml">チベット語</option>
+        <option value="/01language/language_68.shtml">アシャンテ語</option>
+        <option value="/01language/language_69.shtml">ウガンダ語</option>
+        <option value="/01language/language_70.shtml">ナイジェリア語</option>
+        <option value="/01language/language_71.shtml">トルコ語</option>
+        <option value="/01language/language_72.shtml">ヘブライ語</option>
+        <option value="/01language/language_73.shtml">ダリ語</option>
+        <option value="/01language/language_74.shtml">クルド語</option>
+        <option value="/01language/language_75.shtml">スワヒリ語</option>
+        <option value="/01language/language_75.shtml">スワヒリ語</option>
+        <option value="/01language/language_76.shtml">バンバラ語</option>
+        <option value="/01language/language_77.shtml">ペルシア語</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<!-- navigation bar  -->
+<div class="main-nav">
+  <div class="container">
+    <div class="menu-wrap">
+      <button class="toggle-button d-lg-none">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul class="nav-item">
+        <li class="menu-item"><a href="/">トップ
+            <p>TOP</p>
+          </a>
+        </li>
+        <li class="menu-item"><a href="/00service/">多言語翻訳サービス
+            <p>Multilingual Translation Service</p>
+          </a>
+        </li>
+        <li class="menu-item"><a href="/01language/index.shtml">取り扱い言語
+            <p>Language Available</p>
+          </a>
+        </li>
+        <li class="menu-item"><a href="/02market/index.shtml">取り扱い分野
+            <p>Fields Available</p>
+          </a>
+        </li>
+        <li class="menu-item"><a href="/03company/process.shtml">納品までの流れ
+            <p>The Ordering Process</p>
+          </a>
+        </li>
+        <li class="menu-item"><a href="/03company/price.shtml">料金一覧
+            <p>Price List</p>
+          </a>
+        </li>
+        <li class="menu-item"><a href="/03company/quote.shtml">無料見積り依頼
+            <p>Free Estimate</p>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- border section  -->
+<div class="border-area"></div>
+<div class="border-bottom"></div>
+
+<!-- hero-section  -->
+<div class="container service-hero-box">
+  <div class="jumbotron jumbotron-fluid">
+    <div class="service-hero-img">
+      <div class="service-hero-button"><a href="/03company/quote.shtml"><button class="btn">無料お見積りはこちらへ</button></a>
+        <div class="service-hero-text">
+          <div>
+            <p>※1時間以内にお返事いたします。
+            </p>
+          </div>
+          <div class="service-main-text">
+            難解言語による翻訳もお任せ下さい。
+          </div>
+        </div>
+      </div>
+
+      <div class="service-hero-contact">
+        <h2><img src="/assest/img/top/mobile.png" alt=""> 03-3798-3036 <span><img src="/assest/img/top/printer.png"
+              alt="">
+            03-3798-3038</span></h2>
+        <div class="hero-time">
+          <div>営業日 ： 月曜日～金曜日　営業時間 ： AM 9:00</div>
+          <div class="hero-span">~</div>
+          <div>PM 7:00</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

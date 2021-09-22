@@ -1,0 +1,58 @@
+<div class="left-side">
+  <div class="left-text box-design box-after">
+    <h1>メニュー</h1>
+  </div>
+  <div class="left-item">
+    <div>
+      <div class="side-menu-item"><a href="/">Home</a></div>
+      <div class="side-menu-item"><a href="/00service/index.shtml">多言語サービス</a></div>
+      <ul class="left-dropdown">
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/trans.shtml">翻訳</a></li>
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/kousei.shtml">校正</a></li>
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/proof.shtml">プルーフリーディング</a>
+        </li>
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/input_kana.shtml">文字入力・ルビふり</a>
+        </li>
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/layout.shtml">レイアウト</a></li>
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/dtp_outline.shtml">DTP</a></li>
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/outline.shtml">アウトライン化</a></li>
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/tape.shtml">テープ起こし</a></li>
+        <li class="dropdown-item"><i class="far fa-square"></i><a href="/00service/html.shtml">WEB（html)作成</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="left-bottom">
+      <div class="side-menu-item"><a href="/01language/index.shtml">取り扱い言語</a></div>
+      <div class="side-menu-item"><a href="/02market/index.shtml">取り扱い分野</a></div>
+      <div class="side-menu-item"><a href="/03company/guide.shtml">ご利用規約</a></div>
+      <div class="side-menu-item"><a href="/03company/customer.shtml">主な取引先</a></div>
+      <div class="side-menu-item"><a href="/03company/price.shtml">料金一覧</a></div>
+      <div class="side-menu-item"><a href="/03company/privacy.shtml">プライバシーポリシー</a></div>
+      <div class="side-menu-item"><a href="http://www.coordy.co.jp/recruit/recruit01.shtml" target="_blank">採用情報</a>
+      </div>
+      <div class="side-menu-item"><a href="/03company/contact.shtml">お問合せ</a></div>
+      <div class="discount-menu"><a href="/03company/discount.shtml">ディスカウント</a></div>
+      <div class="side-menu-item"><a href="/03company/fonts.shtml">フォント情報</a></div>
+    </div>
+
+    <div class="left-contract mt-4">
+      <div class="left-contract-text service-box-design">
+        <h1>営業時間及び連絡先</h1>
+      </div>
+
+      <div class="left-contract-box mt-2">
+        平日：9：00～19：00<br>
+        （土日曜・祝日：休み）<br>
+        <div class="mb-2 mt-1"><b><a href="/03company/contact.shtml">お問合せ</a></b>はこちらへ</div>
+        <p>TEL：03-5733-6735<br>
+          FAX：03-5733-6745<br>
+          E-mail：<a href="mailto:info@coordy.co.jp">info@wordspan.co.jp</a></p>
+      </div>
+
+      <div class="left-button mt-3 mb-3"><a href="/03company/quote.shtml"><button class="btn">無料お見積りはこちらへ</button></a>
+      </div>
+    </div>
+
+  </div>
+</div>

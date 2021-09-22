@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+  <meta name="Keywords" content="翻訳会社,翻訳,翻訳サービス,通訳会社,通訳,通訳サービス ＤＴＰ,ナレーション,校正,音声録音,テープ起し" />
+  <meta name="description" content="翻訳会社のサイトです。世界82ヶ国78言語対応、多言語の翻訳・通訳はもちろん、ＤＴＰ,ナレーション,校正,音声録音,テープ起しが対応可能です。" />
+
+  <!-- bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+  <!-- bootstrap 5 offline  -->
+  <link rel="stylesheet" href="/vendores/bootstrap/css/bootstrap.min.css">
+
+
+  <!-- normalize css  -->
+  <link rel="stylesheet" href="/vendores/css/normalize.css">
+
+
+  <!-- main style  -->
+  <link rel="stylesheet" href="/assest/css/style.css">
+
+
+  <!-- responsive css  -->
+  <link rel="stylesheet" href="/assest/css/responsive.css">
+
+  <title>中国語翻訳　｜　コーディ翻訳サービスは78ヶ国語多言語翻訳対応、見積無料、料金１ｈ以内</title>
+</head>
+
+<body>
+  <!-- #include file="/includeNew/header_sub.shtml" -->
+
+
+  <!-- body section  start -->
+
+  <div class="container">
+
+    <div class="main-body mt-20">
+
+
+      <!-- left-side -->
+      <!-- #include file="/includeNew/left_menu.shtml" -->
+
+
+      <!-- main-body right side  -->
+
+
+      <div class="right-side">
+
+        <div class="top-url">
+          <p><a href="/">TOP</a> ＞<a href="/01language/index.shtml"> 取り扱い言語</a> ＞ 中国語翻訳</p>
+        </div>
+
+        <div class="body-menu mt-4">
+          <p>
+            |　<a href="#01">中国語翻訳品質について</a>　|　<a href="#02">中国語翻訳実績</a>　|<br>
+            |　<a href="#03">中国語リアルタイムスタッフプロフィール</a>　|　<a href="#04">中国語翻訳サービス料金表</a>　|</p>
+        </div>
+
+        <div class="all-body-header mt-4">
+          <a name="01"></a>
+          <h1>翻訳サービス.jpの中国語翻訳品質について</h1>
+        </div>
+
+        <div class="service-html-section mt-3">
+          <div class="service-subtitle">
+            <div>
+              <h1>専属中国語翻訳者【リアルタイムスタッフ】による高品質の翻訳</h1>
+            </div>
+          </div>
+
+          <div class="language-section-text">
+            <div>
+              高度な言語教育を受け、優れた調査能力を持つ弊社専属翻訳者【リアルタイムスタッフ】が翻訳を行ないます。お客様の分野に精通したネイティブスタッフを選出いたしますので、日本人では難しい微妙なニュアンスの使い分けはもちろんのこと、経験豊かな翻訳者が駆使いたします。『的確な訳語･訳文を生み出す技術』により、お客様のご要望に沿った高品質の翻訳サービスをお届けいたします。
+              <br>
+              弊社リアルタイムスタッフには各々豊富な実績、専門分野がございます。担当させていただきます翻訳者の経歴書提出も可能ですので安心してお任せ下さい。 <br>
+              日本語を介さず、中国語→その他の言語、その他の言語→中国語の翻訳も行なっております。
+            </div>
+
+          </div>
+          <div class="service-subtitle">
+            <div>
+              <h1>翻訳はネイティブが担当</h1>
+            </div>
+          </div>
+
+          <div class="html-section-text">
+            <div>
+              日本語→中国語への翻訳は中国語ネイティブ翻訳者が行い、中国語→日本語への翻訳は日本語ネイティブ翻訳者が行ないます。はじめからネイティブ翻訳者が行うため、ネイティブチェックにかける時間を省くことができます。
+              <br>
+              さらにご安心いただくために仕上げの第三者ネイティブチェックを入れることも可能です。「文法は合っていても中国語として不自然な言い回し」といった問題は起こりません。度な言語教育を受け、優れた調査能力を持つ弊社専属翻訳者【リアルタイムスタッフ】が翻訳を行ないます。お客様の分野に精通したネイティブスタッフを選出いたしますので、日本人では難しい微妙なニュアンスの使い分けはもちろんのこと、経験豊かな翻訳者が駆使いたします。『的確な訳語･訳文を生み出す技術』により、お客様のご要望に沿った高品質の翻訳サービスをお届けいたします。
+              <br>
+              弊社リアルタイムスタッフには各々豊富な実績、専門分野がございます。担当させていただきます翻訳者の経歴書提出も可能ですので安心してお任せ下さい。 <br>
+              日本語を介さず、中国語→その他の言語、その他の言語→中国語の翻訳も行なっております。
+            </div>
+          </div>
+
+          <div class="button-right mt-3">
+            <div class="first-button">
+              <a href="#"><button>トップ</button></a>
+            </div>
+            <div class="first-button">
+              <a href="/03company/contact.shtml"><button>お問合せ</button></a>
+            </div>
+            <div class="first-button last-button">
+              <a href="/03company/quote.shtml"><button>お見積り</button></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="service-html-section mt-3">
+          <div class="service-subtitle">
+            <div>
+              <h1>迅速納品、適正価格</h1>
+            </div>
+          </div>
+
+          <div class="language-section-text">
+            <div>
+              中国語リアルタイムスタッフは現地法人（ＵＳＡ）に複数常駐しており、２４時間体制でお急ぎのご案件にも、できる限りの対応をいたします。弊社スタッフ、その他の翻訳者との連携により、他社に比べてより速く・より確実なご納品をお約束いたします。アフターフォロー（翻訳物へのご質問など）も迅速にご対応させていただいております。また、リアルタイムスタッフと弊社は一定価格で契約を締結しておりますので、安定した料金で翻訳やサービスをご提供することができます。詳しくは料金表をご覧ください。お見積りは無料ですので、お気軽にお問合せください。
+              <br>
+              ＊弊社営業時間と時差の関係上、翌日のご対応となる場合がございます。
+            </div>
+          </div>
+
+          <div class="service-subtitle">
+            <div>
+              <h1>品質管理</h1>
+            </div>
+          </div>
+
+          <div class="language-section-text">
+            <div>
+              弊社の品質管理は二段階です。実績経験豊富な翻訳者が翻訳し、弊社コーディネーターが綿密なチェックを行ないます。 <br>
+              用語統一はもちろんのこと、表記やレイアウトなどお客様のご用途に沿って仕上げます。 <br>
+              添削・校正、第三者ネイティブによるチェックを合わせてご提供することも可能です。
+            </div>
+          </div>
+
+          <div class="service-subtitle">
+            <div>
+              <h1>さまざまな言語に対応</h1>
+            </div>
+          </div>
+
+          <div class="language-section-text">
+            <div>
+              ビジネス文書から専門的・技術的な内容の翻訳まで、幅広い分野での翻訳を行っております。 <br>
+              下記の分野より、より詳細な情報がご覧いただけます。
+            </div>
+          </div>
+
+          <div class="html-section-text">
+            <div class="trans-section-bottom">
+
+              <div class="icon-part">
+                <div class="list-icon">
+
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon1.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>一般</p>
+                      <a href="02market/market_02.shtml">一般的な手紙・メール・ス…</a>
+                    </div>
+                  </div>
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon2.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>マニュアル</p>
+                      <a href="02market/market_01.shtml">マニュアルの出来不出来…</a>
+                    </div>
+                  </div>
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon3.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>IT</p>
+                      <a href="02market/market_09.shtml">IT業界は技術革新のスピ…</a>
+                    </div>
+                  </div>
+
+                </div>
+
+                <div class="list-icon">
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon4.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>特許</p>
+                      <a href="02market/market_03.shtml">欧米・アジア圏での特許…</a>
+                    </div>
+                  </div>
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon5.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>証明書</p>
+                      <a href="02market/market_05.shtml">結婚証明書、卒業証明…</a>
+                    </div>
+                  </div>
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon6.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>論文</p>
+                      <a href="02market/market_04.shtml">産業 / 建築/ 文学 / …</a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="list-icon">
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon7.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>機械・技術</p>
+                      <a href="02market/market_08.shtml">工作技術 / 建設技術 /…</a>
+                    </div>
+                  </div>
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon8.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>ビジネス</p>
+                      <a href="02market/market_07.shtml">海外との文書のやりとり…</a>
+                    </div>
+                  </div>
+                  <div class="icon-side">
+                    <div class="icon-logo">
+                      <img src="/assest/img/top/icon9.png" alt="">
+                    </div>
+                    <div class="icon-title">
+                      <p>法律</p>
+                      <a href="02market/market_10.shtml">各種証明書から裁判資…</a>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="button-right mt-3">
+            <div class="first-button">
+              <a href="#"><button>トップ</button></a>
+            </div>
+            <div class="first-button">
+              <a href="/03company/contact.shtml"><button>お問合せ</button></a>
+            </div>
+            <div class="first-button last-button">
+              <a href="/03company/quote.shtml"><button>お見積り</button></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="all-body-header mt-4">
+          <a name="02"></a>
+          <h1>中国語翻訳実績</h1>
+        </div>
+
+        <div class="service-html-section">
+          <div class="html-section-text">
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語（北京語） 専門翻訳 (天草慈恵病院　2010/10)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語(北京語) チラシDTP (NTLCLanguageGroup　2010/10)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語（北京語） プルーフリーディング (関西ペイント株式会社　2010/10)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→2言語〔英語,中国語(北京語)〕 専門翻訳 (東京地図出版株式会社　2010/10)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">5言語ナレーション録音編集 (㈱会社モトクラ　2010/10)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語（北京語） 兵庫県産酒米説明チラシ (全国農業協同組合連合会　2010/09)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">英語、中国語ナレーション録音および編集 (㈱会社共生医学研究所　2010/09)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語(北京語) 旅行客による会社見学の際の逐次通訳 (㈱会社セルシス　2010/08)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">中国語(北京語)→日本語 ビジネス逐次通訳 (ミツワ株式会社　2010/08)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">中国語（北京語）→日本語 環境影響評価に関する文書 (パナソニック電工株式会社　2010/08)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">分譲マンションプロジェクト説明会用音声作成 (㈱会社アドバンス・ネット　2010/08)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語（北京語） 農業関連資料 (みなとみらいキャピタル株式会社　2010/07)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語（北京語）会社案内 (㈱会社鈴寅　2010/07)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→2言語〔中国語(北京語),中国語(広東語)〕（左近太郎様） 専門翻訳 (㈱会社協栄広告社)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">英語→中国語(北京語) パンフレット (㈱会社ＪＫ管理)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">中国語（北京語）→中国語（広東語） WEBサイト用　専門翻訳 (京都着物レンタル夢京都)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">英語→中国語（北京語） WEBサイト　専門翻訳 (㈱会社新潟美人)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">英語→中国語（北京語） 製品カタログ　専門翻訳＋アウトライン (石塚硝子株式会社)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語（広東語） 企業広告　専門翻訳＋アウトライン (男前豆腐店株式会社)</p>
+              <p><img src="/assest/img/top/dot01.jpg" alt="">日本語→中国語（北京語）翻訳+アウトライン (有限会社美愛工芸)</p>
+            </div>
+          </div>
+          <div class="button-right mt-3">
+            <div class="first-button">
+              <a href="#"><button>トップ</button></a>
+            </div>
+            <div class="first-button">
+              <a href="/03company/contact.shtml"><button>お問合せ</button></a>
+            </div>
+            <div class="first-button last-button">
+              <a href="/03company/quote.shtml"><button>お見積り</button></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="all-body-header mt-4">
+          <a name="03"></a>
+          <h1>中国語リアルタイムスタッフ　プロフィール</h1>
+        </div>
+
+        <div class="service-html-section">
+          <div class="html-section-text">
+            <div class="language-staff">
+              <div class="language-staff-name mt-2">
+                <p>周　巧鳳 中国</p>
+                <div class="language-staff-image">
+                  <div><img src="http://www.go-chinese.com/img/staff_01.gif" alt="staff_01"></div>
+                  <div class="language-staff-text">日本語から中国語への自然で的確な翻訳に定評があります。 流麗なタッチで読みやすい文章を書くのが得意ですので、
+                    教育、文化系の翻訳はお任せください。
+                  </div>
+                </div>
+              </div>
+              <div class="language-staff-name mt-2">
+                <p>銭　春児（セン シュンジ） 中国</p>
+                <div class="language-staff-image">
+                  <div><img src="http://www.go-chinese.com/img/staff_02.jpg" alt="staff_02"></div>
+                  <div class="language-staff-text">全てにおいて最高の品質を目指しているものです。 専門は雇用契約書やビジネス文書です。 手間のかかるような翻訳でも、喜んで翻訳します。
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="button-right mt-3">
+            <div class="first-button">
+              <a href="#"><button>トップ</button></a>
+            </div>
+            <div class="first-button">
+              <a href="/03company/contact.shtml"><button>お問合せ</button></a>
+            </div>
+            <div class="first-button last-button">
+              <a href="/03company/quote.shtml"><button>お見積り</button></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="all-body-header mt-4">
+          <a name="04"></a>
+          <h1>中国語翻訳サービス料金表</h1>
+        </div>
+
+        <div class="service-html-section">
+          <div class="html-section-text">
+            <div class="language-section-table">
+              <p>■ 中国語翻訳料金</p>
+            </div>
+
+            <div class="language-table-header mt-3">
+              <p>1ページの基準</p>
+            </div>
+
+            <div class="language-table-main">
+              <table>
+                <tr>
+                  <th></th>
+                  <th>日本語400字 ⇒中国語</th>
+                  <th>中国語200ワード ⇒ 日本語</th>
+                </tr>
+
+                <tr>
+                  <td>一般・手紙</td>
+                  <td>￥3,300</td>
+                  <td>￥3,300</td>
+                </tr>
+
+                <tr>
+                  <td>専門的な文章</td>
+                  <td>￥3,800</td>
+                  <td>￥3,800</td>
+                </tr>
+
+                <tr>
+                  <td>契約書・証明書・特許・医療</td>
+                  <td>￥4,800</td>
+                  <td>￥4,800</td>
+                </tr>
+              </table>
+            </div>
+
+            <div class="mt-2">
+              ※ 日本語400文字、中国語200ワードを1ページで計算します。<br>
+              ※ 納期は翻訳量によりますが、原則的には3日以上となります。お急ぎの場合は事前にご相談下さい。<br>
+              ※ 特急料金として、12時間以内の場合は100%、24時間以内の場合は50%の割増料金を頂きます。<br>
+              ※ 1ページ未満の翻訳量の場合でも1ページの料金を頂きます。<br>
+              ※ 固有名詞、地名、人名などが多い場合や、歌詞やその言語特有の表現が使われている場合、 料金形態が変動する可能性があります。<br>
+              ※ 手書き文章は￥500増しとなります。<br>
+              ※ 内容の難易度、言語により、別途料金が発生いたします。<br>
+              ※ ご依頼頂いた内容に関して途中キャンセルが発生した場合は、キャンセル料を頂きます。<br>
+              ご発注後、翻訳者が作業を終えた分を請求いたします。<br>
+              但し翻訳作業が半分を超えていた場合、全額ご請求となります。<br>
+              ※ 消費税は別途請求となります。
+            </div>
+
+            <div class="language-section-table mt-3">
+              <p>■ 中国語校正・プルーフリーディング・文字入力・ルビふり</p>
+            </div>
+
+            <div class="language-table2-main mt-3">
+              <table>
+                <tr>
+                  <th>中国語校正</th>
+                  <th>プルーフリーディング</th>
+                  <th>文字入力</th>
+                  <th>ルビふり</th>
+                </tr>
+
+                <tr>
+                  <td>￥1,500/1Page</td>
+                  <td>￥1,500/1Page</td>
+                  <td>￥1,000/1Page</td>
+                  <td>￥1,500/1Page</td>
+                </tr>
+              </table>
+            </div>
+
+            <div class="mt-2">
+              ※ 日本語400字、中国語200ワードを1ページとさせて頂きます。 <br>
+              ※ 最低注文価格￥3,000からとなります。<br>
+              ※ 内容の難易度により、別途料金が発生いたします。<br>
+              ※ 翻訳とセットでご発注いただく場合は￥500割引となります。
+            </div>
+
+            <div class="language-section-table mt-3">
+              <p>■ 中国語DTP・アウトライン化</p>
+            </div>
+
+            <div class="language-table3-main mt-3">
+              <table>
+                <tr>
+                  <th colspan="4">DTP</th>
+                  <th>アウトライン</th>
+                </tr>
+
+                <tr>
+                  <td colspan="2" class="table-bg">InDesign CS2,CS3,CS4</td>
+                  <td colspan="2" class="table-bg">Illustrator 8～10,CS～CS4</td>
+                  <td rowspan="3">￥2,000/1ページ</td>
+                </tr>
+
+                <tr>
+                  <td class="table-bg2">文字の載せ換え</td>
+                  <td class="table-bg2">新規作成</td>
+                  <td class="table-bg2">文字の載せ換え</td>
+                  <td class="table-bg2">新規作成</td>
+
+                </tr>
+
+                <tr>
+                  <td>￥2,000～4,000/1ページ</td>
+                  <td>￥10,500/1ページ</td>
+                  <td>￥2,000～4,000/1ページ</td>
+                  <td>￥10,500/1ページ</td>
+                </tr>
+              </table>
+            </div>
+
+            <div class="mt-2">
+              ※ 上記料金は A4 1ページの標準料金です。（日本語400文字程度） <br>
+              ※ Microsoft Office製品ソフトウェア（word, excel,power pointなど）におけるレイアウトとなります。 <br>
+              ※ 最低注文価格￥3,000からとなります。 <br>
+              ※ 既存データありの作業は、テキストボックスや表の数で料金が決まります。 <br>
+              ※ 既存データなしは完成度のレベルや画像の難易度により料金を変更します。 <br>
+              ※ 地図など細かいものは割増料金を頂くことがあります。 <br>
+              ※ 原稿内容・編集内容、方法によって料金が異なります。 <br>
+              ※ 編集元データがない場合や新規DTPの場合は料金が異なります。
+            </div>
+
+            <div class="language-section-table mt-3">
+              <p>■ テープ起こし</p>
+            </div>
+
+            <div class="language-table3-main mt-3">
+              <table>
+                <tr>
+                  <th>中国語テープ起こし</th>
+                  <th>中国語テープ起こし+和訳</th>
+                </tr>
+
+                <tr>
+                  <td>￥600/1分</td>
+                  <td>￥2,500/1分</td>
+                </tr>
+              </table>
+            </div>
+
+            <div class="mt-2">
+              ※ 音声状態を確認後の見積りとなります。<br>
+              ※ 納期は通常、営業日3日以上となります。<br>
+              ※ 郵送によるテープの受け渡しの場合は郵送日数が納期に加算されます。<br>
+              ※ 納品はワードデータ納品となります。<br>
+              ※ 最低注文価格￥3,000からとなります。<br>
+              ※ ご依頼頂いた内容に関してキャンセルが発生した場合は、キャンセル料を頂きます。<br>
+              ※ 消費税は別途請求となります。<br>
+              ※ 特殊な状態なものに関しては以下の表をご覧ください。
+            </div>
+
+            <div class="language-section-table mt-3">
+              <p>■ WEB（html）作成料金</p>
+            </div>
+
+            <div class="language-table3-main mt-3">
+              <table>
+                <tr>
+                  <th>TOP Page</th>
+                  <th>データあり</th>
+                  <th>データなし</th>
+                </tr>
+
+                <tr>
+                  <td>￥30,000～￥50,000</td>
+                  <td>￥3,500</td>
+                  <td>￥14,000</td>
+                </tr>
+              </table>
+            </div>
+
+            <div class="mt-2">
+              ※A4サイズ1枚の料金となります。 <br>
+              ※最低注文価格￥3,000からとなります。 <br>
+              ※既存データなしは完成度のレベルや画像の難易度により料金を変更します。 <br>
+              ※PC環境を<a class="service-text-color" href="/03company/contact.shtml">お問合せ</a>の際、お教えください。 <br>
+              ※翻訳料金は別途請求となります。
+            </div>
+
+
+
+          </div>
+          <div class="button-right mt-3">
+            <div class="first-button">
+              <a href="#"><button>トップ</button></a>
+            </div>
+            <div class="first-button">
+              <a href="/03company/contact.shtml"><button>お問合せ</button></a>
+            </div>
+            <div class="first-button last-button">
+              <a href="/03company/quote.shtml"><button>お見積り</button></a>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+        <div class="all-body-header mt-4 html-font-size">
+          <h1>以下の地域順国リストの中からご希望の言語をお選び下さい！</h1>
+        </div>
+
+        <div class="service-html-section mt-3">
+          <div class="service-subtitle">
+            <div>
+              <h1>ヨーロッパ</h1>
+            </div>
+          </div>
+
+          <div class="service-language-list mt-3">
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_01.shtml">英語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_36.shtml">ロシア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_16.shtml">デンマーク語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_31.shtml">チェコ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_22.shtml">ラトビア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_17.shtml">マジャル語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_25.shtml">フランス語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_27.shtml">ウクライナ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_32.shtml">ノルウェー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_12.shtml">エストニア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_15.shtml">セルビア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_23.shtml">パシュトゥ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_10.shtml">スペイン語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_26.shtml">オランダ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_33.shtml">ハンガリー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_29.shtml">クロアチア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_13.shtml">カタルーニャ語</a></p>
+
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_09.shtml">ポルトガル語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_35.shtml">ポーランド語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_34.shtml">フィンランド語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_30.shtml">スロベニア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_19.shtml">ブルガリア語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_11.shtml">ドイツ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_14.shtml">ギリシャ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_39.shtml">ルーマニア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_28.shtml">カザフ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_38.shtml">アルバニア語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_24.shtml">イタリア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_18.shtml">スウェーデン語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_20.shtml">ラテン語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_37.shtml">リトアニア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_21.shtml">マルタ語</a></p>
+            </div>
+          </div>
+
+          <div class="service-subtitle mt-3">
+            <div>
+              <h1>アジア</h1>
+            </div>
+          </div>
+
+          <div class="service-language-list mt-3">
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_02.shtml">中国語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_06.shtml">タガログ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_42.shtml">モンゴル語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_45.shtml">ラオ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_48.shtml">福建語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_51.shtml">パンジャビ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_03.shtml">韓国語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_54.shtml">タミル語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_57.shtml">カンボジア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_60.shtml">ジャワ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_63.shtml">朝鮮語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_66.shtml">ビサヤ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_07.shtml">タイ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_40.shtml">ミャンマー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_43.shtml">ウルドゥー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_46.shtml">簡体字</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_49.shtml">ウズベク語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_52.shtml">アゼルバイジャン</a></p>
+
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_04.shtml">インドネシア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_55.shtml">ネパール語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_58.shtml">シンハラ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_61.shtml">繁体字</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_64.shtml">キルギス語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_67.shtml">チベット語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_05.shtml">ベトナム語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_41.shtml">ヒンディー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_44.shtml">ベンガル語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_47.shtml">広東語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_50.shtml">パキスタン語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_53.shtml">クメール語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_56.shtml">マレー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_59.shtml">マラティー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_62.shtml">台湾語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_65.shtml">ウィグル語</a></p>
+            </div>
+          </div>
+
+          <div class="service-subtitle mt-3">
+            <div>
+              <h1>アフリカ・中東</h1>
+            </div>
+          </div>
+
+          <div class="service-language-list mt-3">
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_71.shtml">トルコ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_69.shtml">ウガンダ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_08.shtml">アラビア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_70.shtml">ナイジェリア語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_73.shtml">ダリ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_74.shtml">クルド語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_77.shtml">ペルシア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_75.shtml">スワヒリ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_72.shtml">ヘブライ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_76.shtml">バンバラ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_75.shtml">スワヒリ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_68.shtml">アシャンテ語</a></p>
+            </div>
+          </div>
+
+
+          <div class="body-menu mt-4">
+            <p>
+              |　<a href="#01">中国語翻訳品質について</a>　|　<a href="#02">中国語翻訳実績</a>　|<br>
+              |　<a href="#03">中国語リアルタイムスタッフプロフィール</a>　|　<a href="#04">中国語翻訳サービス料金表</a>　|</p>
+          </div>
+
+        </div>
+
+        <div class="button-right mt-3 mb-3">
+          <div class="first-button">
+            <a href="#"><button>トップ</button></a>
+          </div>
+          <div class="first-button">
+            <a href="/03company/contact.shtml"><button>お問合せ</button></a>
+          </div>
+          <div class="first-button last-button">
+            <a href="/03company/quote.shtml"><button>お見積り</button></a>
+          </div>
+        </div>
+
+
+
+
+      </div>
+
+
+
+    </div>
+
+
+  </div>
+
+
+  <!-- footer  -->
+  <!-- #include file="/includeNew/footer_sub.shtml" -->
+
+
+
+
+
+
+  <!-- html shiv5  -->
+  <script src="/vendores/js/dist/html5shiv-printshiv.js"></script>
+  <script src="/vendores/js/dist/html5shiv.js"></script>
+
+
+  <!-- bootstrap  JS-->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+    integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+    integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+    crossorigin="anonymous"></script>
+
+  <!-- bootstrap JS 5 offline   -->
+  <script src="/vendores/bootstrap/js/bootstrap.min.js"></script>
+
+  <!-- font  awesome-->
+  <script src="https://kit.fontawesome.com/e223ea5ffc.js" crossorigin="anonymous"></script>
+
+  <!-- main-js  -->
+  <script src="/assest/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+  <meta name="Keywords" content="翻訳会社,翻訳,翻訳サービス,通訳会社,通訳,通訳サービス ＤＴＰ,ナレーション,校正,音声録音,テープ起し" />
+  <meta name="description" content="翻訳会社のサイトです。世界82ヶ国78言語対応、多言語の翻訳・通訳はもちろん、ＤＴＰ,ナレーション,校正,音声録音,テープ起しが対応可能です。" />
+
+  <!-- bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+  <!-- bootstrap 5 offline  -->
+  <link rel="stylesheet" href="/vendores/bootstrap/css/bootstrap.min.css">
+
+
+  <!-- normalize css  -->
+  <link rel="stylesheet" href="/vendores/css/normalize.css">
+
+
+  <!-- main style  -->
+  <link rel="stylesheet" href="/assest/css/style.css">
+
+
+  <!-- responsive css  -->
+  <link rel="stylesheet" href="/assest/css/responsive.css">
+
+  <title>取り扱い言語　｜　コーディ翻訳サービスは78ヶ国語多言語翻訳対応、見積無料、料金１ｈ以内</title>
+</head>
+
+<body>
+  <!-- #include file="/includeNew/header_sub.shtml" -->
+
+
+  <!-- body section  start -->
+
+  <div class="container">
+
+    <div class="main-body mt-20">
+
+      <!-- left-side -->
+      <!-- #include file="/includeNew/left_menu.shtml" -->
+
+
+      <!-- main-body right side  -->
+
+
+      <div class="right-side">
+
+        <div class="top-url">
+          <p><a href="/">TOP</a> ＞ 取り扱い言語</p>
+        </div>
+
+        <div class="all-body-header mt-4">
+          <h1>取り扱い言語</h1>
+        </div>
+
+        <div class="service-html-section mt-3">
+
+          <div class="html-section-text">
+            <div>
+              ここでは昨今ますます重要性を増しており弊社でも取り扱い量の多い主要１０言語についての弊社実績のごく一部をご紹介いたします。
+              それぞれ優秀で経験豊富な弊社<span class="service-text-color">リアルタイムスタッフ</span>が常時待機しておりますので、高品質な翻訳サービスを迅速・確実にご提供いたします。
+              <br>
+              <br>
+              また翻訳はもちろんのこと、海外での通訳や案内、現地リサーチやアンケート調査、連絡代行も承っております。 <br>
+              例えばＪＥＴＲＯや金融機関で得た調査結果の妥当性を判断するためには、現地居住者の感覚や常識が必要ではないでしょうか。各地<a href="/03company/profile.shtml"
+                class="service-text-color">リアルタイムスタッフ</a>がお手伝いいたします。 <br>
+              お気軽にお問合せ下さい。
+            </div>
+
+          </div>
+
+          <div class="button-right mt-3">
+            <div class="first-button">
+              <a href="#"><button>トップ</button></a>
+            </div>
+            <div class="first-button">
+              <a href="/03company/contact.shtml"><button>お問合せ</button></a>
+            </div>
+            <div class="first-button last-button">
+              <a href="/03company/quote.shtml"><button>お見積り</button></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="all-body-header mt-4 html-font-size">
+          <h1>以下の地域順国リストの中からご希望の言語をお選び下さい！</h1>
+        </div>
+
+        <div class="service-html-section mt-3">
+          <div class="service-subtitle">
+            <div>
+              <h1>ヨーロッパ</h1>
+            </div>
+          </div>
+
+          <div class="service-language-list mt-3">
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_01.shtml">英語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_36.shtml">ロシア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_16.shtml">デンマーク語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_31.shtml">チェコ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_22.shtml">ラトビア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_17.shtml">マジャル語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_25.shtml">フランス語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_27.shtml">ウクライナ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_32.shtml">ノルウェー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_12.shtml">エストニア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_15.shtml">セルビア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_23.shtml">パシュトゥ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_10.shtml">スペイン語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_26.shtml">オランダ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_33.shtml">ハンガリー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_29.shtml">クロアチア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_13.shtml">カタルーニャ語</a></p>
+
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_09.shtml">ポルトガル語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_35.shtml">ポーランド語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_34.shtml">フィンランド語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_30.shtml">スロベニア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_19.shtml">ブルガリア語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_11.shtml">ドイツ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_14.shtml">ギリシャ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_39.shtml">ルーマニア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_28.shtml">カザフ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_38.shtml">アルバニア語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_24.shtml">イタリア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_18.shtml">スウェーデン語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_20.shtml">ラテン語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_37.shtml">リトアニア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_21.shtml">マルタ語</a></p>
+            </div>
+          </div>
+
+          <div class="service-subtitle mt-3">
+            <div>
+              <h1>アジア</h1>
+            </div>
+          </div>
+
+          <div class="service-language-list mt-3">
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_02.shtml">中国語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_06.shtml">タガログ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_42.shtml">モンゴル語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_45.shtml">ラオ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_48.shtml">福建語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_51.shtml">パンジャビ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_03.shtml">韓国語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_54.shtml">タミル語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_57.shtml">カンボジア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_60.shtml">ジャワ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_63.shtml">朝鮮語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_66.shtml">ビサヤ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_07.shtml">タイ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_40.shtml">ミャンマー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_43.shtml">ウルドゥー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_46.shtml">簡体字</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_49.shtml">ウズベク語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_52.shtml">アゼルバイジャン</a></p>
+
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_04.shtml">インドネシア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_55.shtml">ネパール語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_58.shtml">シンハラ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_61.shtml">繁体字</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_64.shtml">キルギス語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_67.shtml">チベット語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_05.shtml">ベトナム語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_41.shtml">ヒンディー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_44.shtml">ベンガル語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_47.shtml">広東語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_50.shtml">パキスタン語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_53.shtml">クメール語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_56.shtml">マレー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_59.shtml">マラティー語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_62.shtml">台湾語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_65.shtml">ウィグル語</a></p>
+            </div>
+          </div>
+
+          <div class="service-subtitle mt-3">
+            <div>
+              <h1>アフリカ・中東</h1>
+            </div>
+          </div>
+
+          <div class="service-language-list mt-3">
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_71.shtml">トルコ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_69.shtml">ウガンダ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_08.shtml">アラビア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_70.shtml">ナイジェリア語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_73.shtml">ダリ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_74.shtml">クルド語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_77.shtml">ペルシア語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_75.shtml">スワヒリ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_72.shtml">ヘブライ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_76.shtml">バンバラ語</a></p>
+            </div>
+            <div class="list-design">
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_75.shtml">スワヒリ語</a></p>
+              <p><img src="/assest/img/top/dot01.jpg" alt=""><a href="/01language/language_68.shtml">アシャンテ語</a></p>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="button-right mt-4 mb-3">
+          <div class="first-button">
+            <a href="#"><button>トップ</button></a>
+          </div>
+          <div class="first-button">
+            <a href="/03company/contact.shtml"><button>お問合せ</button></a>
+          </div>
+          <div class="first-button last-button">
+            <a href="/03company/quote.shtml"><button>お見積り</button></a>
+          </div>
+        </div>
+
+      </div>
+
+
+    </div>
+
+
+
+  </div>
+
+
+  </div>
+
+
+  <!-- footer  -->
+  <!-- #include file="/includeNew/footer_sub.shtml" -->
+
+
+
+
+
+
+  <!-- html shiv5  -->
+  <script src="/vendores/js/dist/html5shiv-printshiv.js"></script>
+  <script src="/vendores/js/dist/html5shiv.js"></script>
+
+
+  <!-- bootstrap  JS-->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+    integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+    integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+    crossorigin="anonymous"></script>
+
+  <!-- bootstrap JS 5 offline   -->
+  <script src="/vendores/bootstrap/js/bootstrap.min.js"></script>
+
+  <!-- font  awesome-->
+  <script src="https://kit.fontawesome.com/e223ea5ffc.js" crossorigin="anonymous"></script>
+
+  <!-- main-js  -->
+  <script src="/assest/js/main.js"></script>
+</body>
+
+</html>
